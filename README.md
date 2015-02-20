@@ -29,7 +29,7 @@ varName is a argument in your query e.g http://example.com/?secret=foo
 
 failRedirect url for redirecting, when your verify function return callback with error
 
-For full example please see [https://github.com/yarax/passport-url/blob/master/example.js]
+For full example please see https://github.com/yarax/passport-url/blob/master/example.js
 
 #### Tests
 ```
