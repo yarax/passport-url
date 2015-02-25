@@ -1,6 +1,6 @@
 # passport-url
 
-Url strategy for passport. Allow to authenticate user by some hash string giving by GET query.
+Url strategy for Passport.js. Allow to authenticate user by some hash string giving by GET query.
 
 ## Install
 
